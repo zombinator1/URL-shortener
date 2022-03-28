@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<style>
-div{
-  text-align: justify;
-}
-</style>
+
 <html>
 
 <h2>Simple Url Shortener.</h2> 
